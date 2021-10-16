@@ -1,2 +1,2 @@
 # APPworks-application
-resouces for appworks application
+within this repo encapsulates all the resouces for Appworks application
